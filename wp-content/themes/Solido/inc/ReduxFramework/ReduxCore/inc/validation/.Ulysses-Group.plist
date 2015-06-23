@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>color</string>
+		<string>color_rgba</string>
+		<string>colorrgba</string>
+		<string>comma_numeric</string>
+		<string>css</string>
+		<string>date</string>
+		<string>email</string>
+		<string>html</string>
+		<string>html_custom</string>
+		<string>js</string>
+		<string>no_html</string>
+		<string>no_special_chars</string>
+		<string>numeric</string>
+		<string>preg_replace</string>
+		<string>str_replace</string>
+		<string>url</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+</dict>
+</plist>

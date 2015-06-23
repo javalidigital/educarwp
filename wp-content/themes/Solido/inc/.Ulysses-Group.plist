@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>meta-box</string>
+		<string>ReduxFramework</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>class-tgm-plugin-activation.php</string>
+		</array>
+		<array>
+			<string>functions.admin.php</string>
+		</array>
+		<array>
+			<string>functions.frontend.php</string>
+		</array>
+		<array>
+			<string>functions.meta-boxes.php</string>
+		</array>
+		<array>
+			<string>functions.posts_types.php</string>
+		</array>
+		<array>
+			<string>functions.shortcodes.php</string>
+		</array>
+		<array>
+			<string>theme.options.php</string>
+		</array>
+	</array>
+</dict>
+</plist>

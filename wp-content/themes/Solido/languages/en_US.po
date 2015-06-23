@@ -1,0 +1,2004 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SOLIDO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-17 14:21+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Daniel Aguilar <hola@soydac.com>\n"
+"Language-Team: Jellythemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/dac/Desktop/solido\n"
+
+#: /Users/dac/Desktop/solido/archive.php:22
+#: /Users/dac/Desktop/solido/blog.php:68
+#: /Users/dac/Desktop/solido/index.php:16
+#: /Users/dac/Desktop/solido/search.php:22
+#: /Users/dac/Desktop/solido/single.php:22
+msgid "OUR BLOG"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/archive.php:65
+#: /Users/dac/Desktop/solido/blog.php:112
+#: /Users/dac/Desktop/solido/index.php:58
+#: /Users/dac/Desktop/solido/page.php:42
+#: /Users/dac/Desktop/solido/search.php:65
+#: /Users/dac/Desktop/solido/single.php:62
+msgid "by"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/archive.php:66
+#: /Users/dac/Desktop/solido/blog.php:113
+#: /Users/dac/Desktop/solido/index.php:59
+#: /Users/dac/Desktop/solido/page.php:43
+#: /Users/dac/Desktop/solido/search.php:66
+#: /Users/dac/Desktop/solido/single.php:63
+msgid "in"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/archive.php:68
+#: /Users/dac/Desktop/solido/blog.php:115
+#: /Users/dac/Desktop/solido/index.php:61
+#: /Users/dac/Desktop/solido/search.php:68
+msgid "Read more"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/comments.php:9
+msgid "Comments"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/home-video.php:118
+#: /Users/dac/Desktop/solido/homepage.php:151
+msgid "No posts were found"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/searchform.php:3
+msgid "Type to search"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/single-works.php:40
+msgid "Visit site"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:178
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:179
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:517
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1955
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1956
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1956
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1962
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.admin.php:28
+msgid "Main menu"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.admin.php:112
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.admin.php:125
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.frontend.php:191
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.frontend.php:196
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.frontend.php:199
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.frontend.php:201
+msgid "(Edit)"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:31
+msgid "Section attributes"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:38
+msgid "Color scheme"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:47
+msgid "Attach parallax section"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:52
+msgid "Select parallax section"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:62
+msgid "Parallax attributes"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:69
+msgid "Parallax background image"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:74
+msgid "Parallax first image"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:79
+msgid "Parallax second image"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:84
+msgid "Parallax title #1"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:89
+msgid "Parallax title #2"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:94
+msgid "Parallax Video ID (youtube)"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:97
+msgid "Enter the video ID, for example: for URL http://youtube.com/?v=tDvBwPzJ7dY the ID is: tDvBwPzJ7dY"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:100
+msgid "Parallax Height"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:103
+msgid "Parallax height in pixels, only numbers."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:109
+msgid "Slider options"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:116
+msgid "Slider images"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:121
+msgid "Slider title"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:126
+msgid "Slider text (multiple)"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:132
+msgid "Slider button text"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:137
+msgid "Slider button link (URL)"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:142
+msgid "Slider content"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:147
+msgid "Fixed height"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:150
+msgid "Slider height force to 700px"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:153
+msgid "Pattern image"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:156
+msgid "Use first image as pattern, without slider"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:159
+msgid "Video background"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:162
+msgid "Video background for home slider"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:168
+msgid "Member info"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:175
+msgid "Member photo"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:180
+msgid "Member name"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:186
+msgid "Member position"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:192
+msgid "Member e-mail"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:198
+msgid "Member facebook URL"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:204
+msgid "Member twitter URL"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:210
+msgid "Member tumblr URL"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:219
+msgid "Testimonial info"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:226
+msgid "Author avatar"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:231
+msgid "Author position"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:237
+msgid "Author name"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:243
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:79
+msgid "Testimonial"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:252
+msgid "Service info"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:259
+msgid "Service icon"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:262
+msgid "Icon image: Better use a 110x110px transparent PNG"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:265
+msgid "Characteristics"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:269
+msgid "Social strategy and planing"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:270
+msgid "You can add more than one service characteristics"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:276
+msgid "Project information"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:283
+msgid "Project images"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:284
+msgid "Upload multiple images"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:290
+msgid "Project video"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:295
+msgid "Project description"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:300
+msgid "Project URL"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:305
+msgid "Project subtitle"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:310
+msgid "Featured project"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:311
+msgid "Show in featured projects block"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:316
+msgid "Project featured title"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:321
+msgid "Project featured type"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:326
+msgid "Exclude portfolio"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.meta-boxes.php:327
+msgid "Exclude from the list of works"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:14
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:15
+msgid "Sections"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:16
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:17
+msgid "Add New Section"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:18
+msgid "Edit section"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:19
+msgid "New section"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:20
+msgid "View section"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:21
+msgid "Search sections"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:22
+msgid "No sections found"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:23
+msgid "No sections found in Trash"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:46
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:47
+msgid "Parallax Sections"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:48
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:49
+msgid "Add New Parallax"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:50
+msgid "Edit parallax"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:51
+msgid "New parallax"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:52
+msgid "View parallax"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:53
+msgid "Search parallax"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:54
+msgid "No parallax found"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:55
+msgid "No parallax found in Trash"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:78
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:691
+msgid "Testimonials"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:80
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:81
+msgid "Add Testimonial"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:82
+msgid "Edit Testimonial"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:83
+msgid "New Testimonials"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:84
+msgid "View Testimonial"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:85
+msgid "Search Testimonials"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:86
+msgid "No Testimonials found"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:87
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:109
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:110
+msgid "Team"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:111
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:112
+msgid "Add Member"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:113
+msgid "Edit Member"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:114
+msgid "New Member"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:115
+msgid "View Member"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:116
+msgid "Search Member"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:117
+msgid "No Members found"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:118
+msgid "No Members found in Trash"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:141
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:598
+msgid "Services"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:142
+msgid "Service"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:143
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:144
+msgid "Add Service"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:145
+msgid "Edit Service"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:146
+msgid "New Service"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:147
+msgid "View Service"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:148
+msgid "Search Service"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:149
+msgid "No Services found"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:150
+msgid "No Services found in Trash"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:173
+msgid "Works"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:174
+msgid "Work"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:175
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:176
+msgid "Add Work"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:177
+msgid "Edit Work"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:178
+msgid "New Work"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:179
+msgid "View Works"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:180
+msgid "Search Works"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:181
+msgid "No Works found"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.posts_types.php:182
+msgid "No Works found in Trash"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:14
+msgid "All"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:416
+msgid "Section title"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:420
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:428
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:442
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:450
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:459
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:474
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:485
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:493
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:517
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:553
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:573
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:602
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:629
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:666
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:696
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:725
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:753
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:771
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:791
+msgid "Content"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:430
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:452
+msgid "Your title"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:431
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:453
+msgid "Enter your title."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:438
+msgid "Title (with pre-title)"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:461
+msgid "Your pre-title"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:462
+msgid "Enter your pre-title."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:469
+msgid "Content separator"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:481
+msgid "Section content"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:495
+msgid "Your content"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:496
+msgid "<p>Enter text.</p>"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:500
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:506
+msgid "Type of content"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:503
+msgid "Normal"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:504
+msgid "Half-content"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:513
+msgid "Featured works"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:525
+msgid "Portfolio button link"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:527
+msgid "#"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:528
+msgid "Link to your portfolio section"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:532
+msgid "Number of projects to show"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:535
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:582
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:611
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:705
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:734
+msgid "Unlimited"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:536
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:583
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:612
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:706
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:735
+msgid "1"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:537
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:584
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:613
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:707
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:736
+msgid "2"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:538
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:539
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:585
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:586
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:614
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:615
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:708
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:709
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:737
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:738
+msgid "3"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:540
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:587
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:616
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:710
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:739
+msgid "4"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:541
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:588
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:617
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:711
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:740
+msgid "5"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:543
+msgid "Select the number of projects you want to show in the carousel"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:550
+msgid "Image Carousel"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:554
+msgid "Animated carousel with images"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:558
+msgid "Images"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:561
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:761
+msgid "Select images from media library."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:569
+msgid "Team members"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:579
+msgid "Number of members to show"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:590
+msgid "Select the number of members you want to show"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:608
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:702
+msgid "Number of services to show"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:619
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:714
+msgid "Select the number of services you want to show"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:626
+msgid "Counter"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:630
+msgid "Facts counter"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:634
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:776
+msgid "Icon"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:637
+msgid "Select icon from media library. 73x71px"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:643
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:673
+msgid "Counter number"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:645
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:675
+msgid "100"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:646
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:676
+msgid "Total number for the counter"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:652
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:655
+msgid "Fact"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:654
+msgid "Projects completed"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:663
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:682
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:685
+msgid "Skill"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:667
+msgid "Skill bar"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:684
+msgid "Web design"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:692
+msgid "Testimonials carousel"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:712
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:741
+msgid "6"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:720
+msgid "Portfolio"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:721
+msgid "Portfolio with filter"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:731
+msgid "Number of works to show"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:743
+msgid "Select the number of works you want to show"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:750
+msgid "Logos Carousel"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:754
+msgid "Animated carousel with clients logos"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:758
+msgid "Logos"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:768
+msgid "Image separator"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:772
+msgid "Image separator between sections"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:779
+msgid "Select image from media library. Recommended 900px width"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:787
+#: /Users/dac/Desktop/solido/inc/theme.options.php:325
+msgid "Contact info"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:792
+msgid "Contact info row item (address, schedule, phone, etc."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:800
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:803
+msgid "Label"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:802
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:819
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/map.php:13
+msgid "Address"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:809
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:812
+msgid "Value"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:811
+msgid "1234 Stree Name, City Name"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:816
+msgid "Info type"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:820
+msgid "Phone"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:821
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:239
+msgid "Email"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:822
+msgid "Schedule"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/functions.shortcodes.php:824
+msgid "Select type of info"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:39
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:58
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:59
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:60
+msgid "Tags"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:64
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:65
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:176
+#: /Users/dac/Desktop/solido/inc/theme.options.php:180
+msgid "SOLIDO Options"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:222
+msgid "Theme Information 1"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:223
+#: /Users/dac/Desktop/solido/inc/theme.options.php:228
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:227
+msgid "Theme Information 2"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:232
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:259
+msgid "General settings"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:260
+msgid "<p class=\"description\">General theme settings</p>"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:267
+msgid "Site name"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:269
+msgid "&lt;span&gt; tags are for logo composition"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:275
+msgid "Logo image"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:282
+msgid "Favicon image"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:291
+msgid "Theme color scheme"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:292
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:307
+msgid "Theme scheme layout"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:308
+msgid "Select your themes alternative layout color scheme."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:317
+msgid "Credits"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:326
+msgid "<p class=\"description\">Complete contact info</p>"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:331
+msgid "Twitter url"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:337
+msgid "Facebook url"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:343
+msgid "Google Plus url"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:349
+msgid "Location longitude coordinate"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:355
+msgid "Location latitude coordinate"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:369
+msgid "Theme Information"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:370
+msgid "<p class=\"description\">This is the Description. Again HTML is allowed</p>"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/theme.options.php:385
+msgid "Documentation"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/better-include.php:16
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/better-include.php:19
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/date-time-js-options.php:21
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:184
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/date-time-js-options.php:24
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:185
+msgid "yy-mm-dd"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:34
+msgid "Standard Fields"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:53
+msgid "Text"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:57
+msgid "Text description"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:60
+msgid "Default text value"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:66
+msgid "Checkbox"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:74
+msgid "Radio"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:80
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:91
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:233
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:278
+msgid "Label1"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:81
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:92
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:234
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:279
+msgid "Label2"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:86
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:273
+msgid "Select"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:97
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:284
+msgid "Select an Item"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:104
+msgid "Hidden value"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:108
+msgid "Password"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:114
+msgid "Textarea"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:115
+msgid "Textarea description"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:132
+msgid "Password is required"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:133
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:141
+msgid "Advanced Fields"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:147
+msgid "Heading"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:152
+msgid "Slider"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:157
+msgid "$"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:158
+msgid " USD"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:169
+msgid "Number"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:178
+msgid "Date picker"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:193
+msgid "Datetime picker"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:207
+msgid "Time picker"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:222
+msgid "Color picker"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:228
+msgid "Checkbox list"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:241
+msgid "Email description"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:247
+msgid "Range"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:249
+msgid "Range description"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:258
+msgid "URL"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:260
+msgid "URL description"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:266
+msgid "oEmbed"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:268
+msgid "oEmbed description"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:288
+msgid "Taxonomy"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:302
+msgid "Posts (Pages)"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:318
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:323
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:339
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:345
+msgid "File Advanced Upload"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:353
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:359
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:365
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/demo.php:372
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/classes/meta-box.php:252
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/classes/meta-box.php:426
+msgid "+"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/classes/meta-box.php:448
+msgid "&#8211;"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/button.php:36
+msgid "Click me"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/post.php:54
+msgid "Post"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/post.php:68
+#: /Users/dac/Desktop/solido/inc/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/class.redux-plugin.php:274
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/class.redux-plugin.php:274
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/class.redux-plugin.php:381
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/class.redux-plugin.php:383
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:104
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:110
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:249
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:251
+msgid "Options"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:263
+msgid "Options panel created using"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:263
+msgid "Redux Framework"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:889
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:890
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1869
+msgid "Import / Export"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:900
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:901
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1885
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1983
+msgid "Options Object"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:911
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:912
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1899
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:2003
+msgid "System Info"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1166
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1167
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1168
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1169
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1417
+msgid "Default"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1729
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1783
+msgid "Expand"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1785
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:2033
+msgid "Save Changes"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1787
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:2035
+msgid "Reset Section"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1789
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:2037
+msgid "Reset All"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1792
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:2040
+msgid "Working..."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1799
+msgid "Settings Imported!"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1801
+msgid "Settings Saved!"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1805
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1806
+msgid "error(s) were found!"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1807
+msgid "warning(s) were found!"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1936
+msgid "Import / Export Options"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1937
+msgid "Import Options"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1938
+msgid "Import from file"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1938
+msgid "Import from URL"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1943
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1953
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1960
+msgid "Import"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1960
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1963
+msgid "Export Options"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1965
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1969
+msgid "Copy"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1969
+msgid "Download"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1969
+msgid "Copy Link"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/framework.php:1992
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/extension_edd.php:77
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/extension_edd.php:119
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/extension_edd.php:176
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:116
+msgid "Valid"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/extension_edd.php:170
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:110
+msgid "Not Activated"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/extension_edd.php:173
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:114
+msgid "Deactivated"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/extension_edd.php:179
+msgid "Not Valid"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/EDD_License_Handler.php:112
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/EDD_License_Handler.php:218
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:142
+msgid "Deactivate License"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/EDD_SL_Theme_Updater.php:54
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:123
+msgid "License Status"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:132
+msgid "Verify License"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/extensions/edd/edd_license/field_edd_license.php:137
+msgid "Activate License"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/tracking.php:59
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/tracking.php:60
+msgid "Please helps us improve our panel by allowing us to gather anonymous usage stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/tracking.php:65
+msgid "Allow tracking"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/tracking.php:70
+msgid "Do not allow tracking"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:125
+msgid "Top"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:132
+msgid "Right"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:139
+msgid "Bottom"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:146
+msgid "Left"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/color/field_color.php:72
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:81
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:84
+msgid "Transparent"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:139
+msgid "Width"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:155
+msgid "height"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:168
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/dimensions/field_dimensions.php:169
+msgid "Units"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:77
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/gallery/field_gallery.php:78
+msgid "Clear Gallery"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/group/field_group.php:71
+msgid "New"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/group/field_group.php:84
+msgid "New "
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/group/field_group.php:133
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/group/field_group.php:198
+msgid "Delete"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/group/field_group.php:203
+msgid "Add"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:86
+msgid "Regular"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:90
+msgid "Hover"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:94
+msgid "Visited"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/link_color/field_link_color.php:98
+msgid "Active"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:150
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:117
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:180
+msgid "Upload"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/media/field_media.php:156
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:78
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:81
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:123
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:182
+msgid "Remove"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/multi_text/field_multi_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/password/field_password.php:56
+msgid "Username"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:69
+msgid "Select an item"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/select/field_select.php:110
+msgid "No items of this type were found."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:128
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:187
+msgid "Title"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:129
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:189
+msgid "Description"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:138
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Select an Option"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:158
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete Slide"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/slides/field_slides.php:223
+msgid "Add Slide"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:109
+msgid "Font family"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:150
+msgid "Standard Fonts"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:186
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:190
+msgid "Font style"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:190
+msgid "Style"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:216
+msgid "Font subsets"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:217
+msgid "Subsets"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:217
+msgid "Font script"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:235
+msgid "Size"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:244
+msgid "Height"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:252
+msgid "Word Spacing"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:260
+msgid "Letter Spacing"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:274
+msgid "Backup Font Family"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:294
+msgid "Font color"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/fields/typography/field_typography.php:590
+msgid "Google Webfonts"
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/color/validation_color.php:15
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:15
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: /Users/dac/Desktop/solido/inc/ReduxFramework/ReduxCore/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+

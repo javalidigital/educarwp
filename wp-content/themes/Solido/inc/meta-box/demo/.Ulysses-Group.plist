@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>all-custom-post-types.php</string>
+		</array>
+		<array>
+			<string>better-include.php</string>
+		</array>
+		<array>
+			<string>date-time-js-options.php</string>
+		</array>
+		<array>
+			<string>demo.php</string>
+		</array>
+		<array>
+			<string>force-delete.php</string>
+		</array>
+		<array>
+			<string>include-by-ID-or-page-template.php</string>
+		</array>
+		<array>
+			<string>map.php</string>
+		</array>
+	</array>
+</dict>
+</plist>

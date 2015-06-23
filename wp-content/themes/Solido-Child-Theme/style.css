@@ -1,0 +1,41 @@
+/*
+Theme Name: SOLIDO Child
+Description: SOLIDO Blank Child Theme
+Author: Jellythemes
+Version: 1.2
+Template: solido
+*/
+
+@import url("../solido/style.css");
+.sl-element {width:  295px!important;}
+li.t-current {font-size: 40px;}
+.welcome {color: #4E7738;}
+.blue .buy-logo {border-color: #4E7738!important;}
+.spacer {background:#4E7738!important;}
+.dark {padding-bottom: 0px!important;}
+.dark:after {display: none;}
+.colorcarousel {background-color: #4E7738;}
+.contour-btn, .wpcf7-submit {background-color:#77be32 !important }
+.caroufredsel_wrapper {height: 151px!important;}
+.slides-navigation a.prev {display: none;}
+.slides-navigation a.next {display: none;}
+
+.logo-topo {
+  background: url(http://localhost/educar2015/wp-content/uploads/2015/06/logo-topo.png) no-repeat;
+  width: 250px;
+  height: 119px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  z-index: 10;
+}
+
+.selo {
+  background: url(http://localhost/educar2015/wp-content/uploads/2015/06/selo-topo.png) no-repeat;
+  width: 120px;
+  height: 69px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>ace_editor</string>
+		<string>border</string>
+		<string>button_set</string>
+		<string>checkbox</string>
+		<string>color</string>
+		<string>color_gradient</string>
+		<string>color_rgba</string>
+		<string>date</string>
+		<string>dimensions</string>
+		<string>divide</string>
+		<string>editor</string>
+		<string>gallery</string>
+		<string>group</string>
+		<string>image_select</string>
+		<string>info</string>
+		<string>link_color</string>
+		<string>media</string>
+		<string>multi_text</string>
+		<string>password</string>
+		<string>radio</string>
+		<string>raw</string>
+		<string>raw_align</string>
+		<string>select</string>
+		<string>slider</string>
+		<string>slides</string>
+		<string>sortable</string>
+		<string>sorter</string>
+		<string>spacing</string>
+		<string>spinner</string>
+		<string>switch</string>
+		<string>text</string>
+		<string>textarea</string>
+		<string>typography</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+</dict>
+</plist>

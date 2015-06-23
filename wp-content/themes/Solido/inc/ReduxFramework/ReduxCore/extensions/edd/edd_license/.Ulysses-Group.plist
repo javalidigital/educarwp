@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>EDD_License_Handler.php</string>
+		</array>
+		<array>
+			<string>EDD_SL_Plugin_Updater.php</string>
+		</array>
+		<array>
+			<string>EDD_SL_Theme_Updater.php</string>
+		</array>
+		<array>
+			<string>field_edd_license.js</string>
+		</array>
+		<array>
+			<string>field_edd_license.less</string>
+		</array>
+		<array>
+			<string>field_edd_license.min.js</string>
+		</array>
+		<array>
+			<string>field_edd_license.php</string>
+		</array>
+	</array>
+</dict>
+</plist>

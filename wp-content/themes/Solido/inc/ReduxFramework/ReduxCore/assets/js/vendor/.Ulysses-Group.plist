@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>childOrder</key>
+	<array>
+		<string>ace_editor</string>
+		<string>minicolors</string>
+		<string>select2</string>
+	</array>
+	<key>createMarkedFile</key>
+	<false/>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>cookie.js</string>
+		</array>
+		<array>
+			<string>jquery.alphanum.js</string>
+		</array>
+		<array>
+			<string>jquery.tipsy.js</string>
+		</array>
+		<array>
+			<string>jquery.typewatch.js</string>
+		</array>
+		<array>
+			<string>jsonview.js</string>
+		</array>
+		<array>
+			<string>jsonview.min.js</string>
+		</array>
+		<array>
+			<string>lte-ie7.js</string>
+		</array>
+		<array>
+			<string>select2.sortable.js</string>
+		</array>
+		<array>
+			<string>spinner_custom.js</string>
+		</array>
+	</array>
+</dict>
+</plist>

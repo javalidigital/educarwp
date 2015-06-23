@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* Color Fucsia CSS */
+.turquoise .prev-featured:hover,.turquoise .next-featured:hover,.turquoise .s-ico,.turquoise .sl-ico,.turquoise .progress-bar .skill-in,.turquoise .ch-grid,.turquoise .f-ico,.turquoise .car-prev,.turquoise .car-next,.turquoise .car-prev-2,.turquoise .car-next-2,.turquoise .scrollup,.turquoise .list-dot,.turquoise .p-two {background-color: #29deb5 !important;}
+.turquoise .menu a:hover,.turquoise #nav .current a,.turquoise .f-image .f-category,.turquoise .t-photo .f-category,.turquoise .half-content a,.turquoise .wpcf7-submit:hover, .turquoise .second-title span {color: #29deb5 !important;}
+.turquoise .f-image .f-category {background-position: -264px 0;}
+.turquoise .t-photo .f-category {background-position: -264px -44px;}
+.turquoise .f-single:hover .f-info,.turquoise .btn-featured,.turquoise .spacer,.turquoise .folio-btn:hover,.turquoise .p-roll,.turquoise .wpcf7-submit,.turquoise .folio-btn.selected,.turquoise .t-spacer,.turquoise .t-element:hover .t-data,.turquoise .logo span span{background: #29deb5;}
+.turquoise .logo span{background: #29deb5; background: rgba(41,222,181,0.5);}
+.turquoise .controller ul li:hover,.turquoise .selected,.turquoise .controller-2 ul li:hover,.turquoise .controller-3 ul li:hover{border: 2px solid #29deb5 !important; background: #29deb5 !important;}
+.turquoise .buy-logo{border-color: #29deb5;}
+.turquoise ::selection{background-color: #29deb5;}
+.turquoise.page-template-blog-php a {color:#29deb5;}
+.turquoise.single-post a {color:#29deb5;}
+.turquoise .post .date {border-bottom-color:#29deb5; }
+.turquoise .comment-reply-link, .turquoise #respond input[type=submit] {background: #29deb5;}
+.turquoise.archive a, .turquoise.search-results a, .turquoise.single .menu ul li.blog a, .turquoise.archive .menu ul li.blog a, .turquoise.search-results .menu ul li.blog a {color:#29deb5 !important;}
+.turquoise .visit-site{background:#29deb5;}
+ .turquoise span.wpcf7-not-valid-tip {color:#29deb5;}
