@@ -660,7 +660,7 @@ clear:both;
 .spacer{
 	width: 100px;
 	height: 2px;
-	background: #4cddf3;
+	background: #77be32;
 	margin: auto;
 }
 .p-image-01{position: absolute; bottom: -3px; left: 50%; margin-left: -550px;}
@@ -1408,7 +1408,7 @@ clear:both;
 .form-horizontal .control-group {margin-bottom: 10px;}
 .peThemeContactForm .controls .span9 {
 	width: 97%!important;
-	border: none;
+	/*border: none;*/
 	outline: none;
 	padding: 10px;
 	font-size: 14px;

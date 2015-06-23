@@ -7,13 +7,18 @@ Template: solido
 */
 
 @import url("../solido/style.css");
+/*.logo img {width: 255px;}*/
+.main-title {height: 490px!important; top: 10%!important; margin-top: 0px!important;}
+.main-title .spacer {margin: 0 auto!important;}
 .sl-element {width:  295px!important;}
-li.t-current {font-size: 40px;}
-.welcome {color: #4E7738;}
-.blue .buy-logo {border-color: #4E7738!important;}
-.spacer {background:#4E7738!important;}
-.dark {padding-bottom: 0px!important;}
-.dark:after {display: none;}
+.main-title ul li {font-size: 40px;}
+.welcome {color: #77be32;}
+.blue .buy-logo {border-color: #77be32!important;}
+.spacer {background:#77be32!important;}
+/*.dark {padding-bottom: 0px!important;}*/
+/*.dark:after {display: none;}*/
+#online.dark:after, #capacitacao.dark:after, #video.dark:after {display: none;}
+#online.dark, #capacitacao.dark {display: none;}
 .colorcarousel {background-color: #4E7738;}
 .contour-btn, .wpcf7-submit {background-color:#77be32 !important }
 .caroufredsel_wrapper {height: 151px!important;}
@@ -38,4 +43,11 @@ li.t-current {font-size: 40px;}
   top: 0;
   left: 0;
   z-index: 10;
+}
+.sl-ico {background-color: #77be32!important;}
+.buy-logo {
+  width: 305px!important;
+
+  font-size: 21px!important;
+
 }
