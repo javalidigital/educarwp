@@ -47,7 +47,7 @@
             <div class="title-container">
                 <div class="welcome"><?php echo get_post_meta( $post->ID, '_jellythemes_slider_title', true ); ?>
                 <?php $texts =  get_post_meta( $post->ID, '_jellythemes_slider_text', true ); ?>
-                <img src="http://educarpelofutebol.com.br/img/logo.png" title="Educar pelo Futebol" style="width: 50%; height:50%"></div>
+                <img src="http://educarwp.javalidigital.com.br/wp-content/uploads/2015/06/ABC.png" title="Educar pelo Futebol" style="width: 180px; height: 10%"></div>
                 <ul>
                     <?php foreach ($texts as $i => $text) : ?>
                         <li <?php echo $i==0 ? 'class="t-current"' : '' ?>><?php echo $text ?></li>

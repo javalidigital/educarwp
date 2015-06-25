@@ -1,0 +1,11 @@
+/*
+Theme Name: SOLIDO Child
+Description: SOLIDO Blank Child Theme
+Author: Jellythemes
+Version: 1.2
+Template: solido
+*/
+
+@import url("../solido/style.css");
+
+.socialFooter {margin-top: 0px;}

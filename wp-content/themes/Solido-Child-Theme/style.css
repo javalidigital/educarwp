@@ -8,13 +8,16 @@ Template: solido
 
 @import url("../solido/style.css");
 /*.logo img {width: 255px;}*/
-.main-title {height: 490px!important; top: 10%!important; margin-top: 0px!important;}
-.main-title .spacer {margin: 0 auto!important;}
+.title-container {margin: 84px auto!important;}
+.main-title {height: 700px!important; top: 10%!important; margin-top: 0px!important;}
 .sl-element {width:  295px!important;}
-.main-title ul li {font-size: 40px;}
 .welcome {color: #77be32;}
 .blue .buy-logo {border-color: #77be32!important;}
 .spacer {background:#77be32!important;}
+.main-title ul {
+  margin-top: 27px!important;
+}
+.main-title ul li {font-size: 44%!important; line-height: 100%!important;}
 /*.dark {padding-bottom: 0px!important;}*/
 /*.dark:after {display: none;}*/
 #online.dark:after, #capacitacao.dark:after, #video.dark:after {display: none;}
@@ -24,9 +27,13 @@ Template: solido
 .caroufredsel_wrapper {height: 151px!important;}
 .slides-navigation a.prev {display: none;}
 .slides-navigation a.next {display: none;}
-
+.tooltip {bottom: -73%!important;  z-index: 99!important;}
+.arrow-down {bottom: -13%!important; border-left: 8px solid transparent!important;
+  border-right: 8px solid transparent!important;
+  border-bottom: 8px solid rgba(6,6,6,.85)!important;
+border-top: none!important;	}
 .logo-topo {
-  background: url(http://localhost/educar2015/wp-content/uploads/2015/06/logo-topo.png) no-repeat;
+  background: url(http://educarwp.javalidigital.com.br/wp-content/uploads/2015/06/logo-topo-educar.png) no-repeat;
   width: 250px;
   height: 119px;
   position: absolute;
@@ -36,7 +43,7 @@ Template: solido
 }
 
 .selo {
-  background: url(http://localhost/educar2015/wp-content/uploads/2015/06/selo-topo.png) no-repeat;
+  background: url(http://educarwp.javalidigital.com.br/wp-content/uploads/2015/06/selo-topo1.png) no-repeat;
   width: 120px;
   height: 69px;
   position: absolute;
@@ -47,7 +54,36 @@ Template: solido
 .sl-ico {background-color: #77be32!important;}
 .buy-logo {
   width: 305px!important;
-
+  padding: 11px 0px 11px!important;
   font-size: 21px!important;
 
+}
+.socialFooter {margin-top: 0px!important;}
+@media only screen and (max-width: 795px) {
+.main-title ul {
+  margin-top: 27px!important;
+}
+}
+figure { width: 100%; min-width: 17.5em; margin:0 auto;}
+figcaption { font: 120% sans-serif; text-align: center;}
+.boxVideo {
+    position: relative;
+    padding-bottom: 56.25%; 
+    padding-top: 25px;
+    height: 0;
+    margin:0 auto;
+}
+.boxVideo iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+@media only screen and (max-width: 795px){
+.main-title ul {
+  margin-top: 0;
+  height: 20px;
+}
 }
