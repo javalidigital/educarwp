@@ -3,7 +3,7 @@ Theme Name: SOLIDO Child
 Description: SOLIDO Blank Child Theme
 Author: Jellythemes
 Version: 1.2
-Template: solido
+Template: Solido
 */
 
 @import url("../solido/style.css");
@@ -14,6 +14,7 @@ Template: solido
 .welcome {color: #77be32;}
 .blue .buy-logo {border-color: #77be32!important;}
 .spacer {background:#77be32!important;}
+.main-title .spacer {display: none;}
 .main-title ul {
   margin-top: 27px!important;
 }
@@ -87,10 +88,33 @@ figcaption { font: 120% sans-serif; text-align: center;}
   height: 20px;
 }
 }
-#o-unicef > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1435162600142 > div:nth-child(2) {padding: 83px 40px 0px 40px!important;}
-.info-skills {font-size: 12px!important;}
+/*#o-unicef > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1435162600142 > div:nth-child(2) {padding: 83px 40px 0px 40px!important;}*/
+.info-skills {font-size: 17px!important;}
 .controller-2, .controller-3 {display: none!important;}
 .caroussel-2 {min-height: 362px!important;}
 .comment {font-size: 12px!important;}
 .progress-bar {background: #ccc!important;}
 .car-prev-2, .car-next-2 {opacity: 1!important;}
+
+.ensinar {margin: -2px!important;}
+.details ul {text-align: center!important;}
+
+#o-unicef > div.vc_row.wpb_row.vc_row-fluid.vc_custom_1435162459247 > div.vc_span8.wpb_column.vc_column_container > div > div.vc_row.wpb_row.vc_inner.vc_row-fluid > div.vc_span6.wpb_column.vc_column_container {margin-left: -207px}
+.certificado {width: 100%;}
+#apresentacao > div > div > section > div > div > div.vc_cta3-actions > div > a {
+  font-size: 16px;
+  padding-top: 13px!important;
+  padding-bottom: 0px!important;
+  padding-left: 45px!important;
+  padding-right: 45px!important;
+}
+#apresentacao > div > div > section > div > div > div.vc_cta3-actions > div > a > p:nth-child(2) {font-size: 10.7px; text-transform: uppercase;}
+#apresentacao > div > div > section > div > div > div.vc_cta3-actions > div > p {display: none;}
+/*PARA QUEM É*/
+#para-quem-e {display: none;}
+
+.p-title-two {font-size: 31px!important;}
+.interesse {color: #fff; background-color: #6dab3c; border-radius: 7px; padding:5px; font-size: 18px;   box-shadow: 1px 1px 1px #000;}
+.interesse:hover {padding-top: 8px; padding-bottom: 8px;}
+
+.wpcf7-text {box-shadow: 1px 0px 2px #000;}

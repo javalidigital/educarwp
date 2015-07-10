@@ -1054,9 +1054,9 @@ body .wpb_row  .vc_span12 .title-one {padding-top:80px;}
 	position: relative;
 }
 /* Caroussel */
-.show{position: relative; width:520px;}
+.show{position: relative; width:auto;}
 .caroussel{
-	width: 500px;
+	width: 100%;
 	height: 350px;
 	overflow: hidden;
 	position: relative;
@@ -1108,7 +1108,7 @@ body .wpb_row  .vc_span12 .title-one {padding-top:80px;}
 
 /* Testimonials */
 .caroussel-2{
-	width: 500px;
+	width: auto;
 	height: 265px;
 	overflow: hidden;
 	position: relative;
@@ -1117,7 +1117,7 @@ body .wpb_row  .vc_span12 .title-one {padding-top:80px;}
 .caroussel-list-2{overflow: auto;}
 .car-quote{
 	float: left;
-	width: 500px;
+	width: auto;
 }
 .tag-project{
 	text-align: center;
